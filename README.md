@@ -1,1 +1,1 @@
-# LakeMahogany.io<!doctype html>
+# LakeMahogany.io
